@@ -27,5 +27,5 @@ function fetchAndRender(url, targetElementId) {
   
 }
 
-fetchAndRender('https://mosesmadale.github.io/glc/html3.html', 'display-element');
+fetchAndRender('https://mosesmadale.github.io/glc/index3.html', 'display-element');
 
